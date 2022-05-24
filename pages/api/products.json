@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "OG Emoji pack",
+    "price": "0.09",
+    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
+    "image_url": "https://i.giphy.com/media/uHSNi5wQrSNtS/giphy.webp",
+    "filename": "emoji.webp ",
+    "hash": "QmX9pFQXpUSVb9iLW58KHqxXnFa3szNRifTXFsok6dY978"
+  },
+  {
+    "id": 2,
+    "name": "emojis.zip",
+    "price": "0.2",
+    "image_url": "https://i.giphy.com/media/CaiVJuZGvR8HK/giphy.webp",
+    "description": "Very cool emojis in a zip ",
+    "filename": "Emojis.zip",
+    "hash": "QmYVkzo1pkbQJrkmvF82pLXQLQ31LUc2J3qUd8Shq47Cnn"
+  }
+]
